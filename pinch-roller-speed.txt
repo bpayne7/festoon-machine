@@ -1,0 +1,8 @@
+12 m per minute
+
+48-50 rpm tracy 
+
+38 rpm brian
+
+
+range 0 to 100 rpms
